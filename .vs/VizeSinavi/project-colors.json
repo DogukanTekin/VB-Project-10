@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be101a4a-4f79-49fd-8025-cf0c86689dbc": {
+      "ProjectGuid": "be101a4a-4f79-49fd-8025-cf0c86689dbc",
+      "DisplayName": "VizeSinavi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
